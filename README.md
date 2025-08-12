@@ -1,6 +1,7 @@
 # sweetsales_application_1
 
-A new Flutter project.
+A Flutter Project
+An application to calculate sales and profit
 
 ## Getting Started
 
